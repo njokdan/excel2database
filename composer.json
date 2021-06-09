@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/xlimport",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "devka",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpspreadsheet": "1.18.0",
+    "doctrine/dbal": "3.1.0"
+  }
+}
